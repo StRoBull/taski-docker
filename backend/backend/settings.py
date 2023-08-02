@@ -10,8 +10,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['158.160.78.211', '127.0.0.1', 'localhost', 'robtaski.ddns.net']
 
-
-
 # Application definition
 
 INSTALLED_APPS = [
